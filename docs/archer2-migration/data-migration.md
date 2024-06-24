@@ -15,7 +15,7 @@ transferred.
     has been set up to require only one form of authentication. You will only need
     one factor to authenticate from the 4-cab to the full system or vice versa. This
     factor can be either an SSH key (that has been registered against your account in 
-    SAFE) or you can use your passowrd. If you have a large amount of data to transfer
+    SAFE) or you can use your password. If you have a large amount of data to transfer
     you may want to setup a passphrase-less SSH key on ARCHER2 full system and
     [use the data analysis nodes](../user-guide/data.md) to run transfers via a
     Slurm job.
